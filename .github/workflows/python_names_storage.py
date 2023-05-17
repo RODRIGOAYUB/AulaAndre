@@ -12,13 +12,13 @@ credentials_dict = {
     "type": "service_account",
   "project_id": "projeto1-382123",
   "private_key_id": "GOOGZYKDOOL4DX77GLPMY65I",
-  "private_key": "-----BEGIN PRIVATE KEY-----\naG9Oj/L7+V7AShafW85Q8xSV32ahH9ck9ygdb6MD\n-----END PRIVATE KEY-----\n",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n9d99db676099aefa9d96952af0c1bb1c68f6c60e\n-----END PRIVATE KEY-----\n",
   "client_email": "service-594036329011@compute-system.iam.gserviceaccount.com",
   "client_id": "116227407277652709047",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pmcardamone%40moonlit-buckeye-382223.iam.gserviceaccount.com",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"  
 }
 
